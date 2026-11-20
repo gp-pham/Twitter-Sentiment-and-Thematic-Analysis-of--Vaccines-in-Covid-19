@@ -1,4 +1,4 @@
-# Twitter-Sentiment-and-Thematic-Analysis-of-Covid-19
+# Twitter-Sentiment-and-Thematic-Analysis-of-vaccines-in-Covid-19
 Sentiment and thematic analysis of tweets on Twitter about vaccinations in 2020-2021
 
 
